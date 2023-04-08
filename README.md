@@ -22,9 +22,9 @@ The results of the study are summarized in the **`pymaceuticals.ipynb`** noteboo
 
 ## **Analysis**
 
-- When comparing the top 2 Drug Regiments, Capomulin and Ramicane, Capomulin had less variabliity within its midrange. ALso of the top 4 drug regiments, Infubibnol was the only drug regiment shown to have an outlier which lies outside the lower bound.
+- Capomulin and Ramicane drug regimens had the highest performance in treating SCC. When comparing the top 2 Drug Regimens, Capomulin and Ramicane, Capomulin had less variabliity within its midrange. Also of the top 4 drug regimens, Infubibnol was the only drug regiment shown to have an outlier which lies outside the lower bound.
 
-- Ramicane and Capomulin also had a smaller Standard Deviations of their tumor size. This shows that the regimens produced more consistent results among the mice that they tested. The higher Standard Deviations of the other regimens show a more sporadic result range amongst the mice in those groups.
+- Ramicane and Capomulin also produced the smallest Standard Deviations of tumor size. This shows that the regimens produced more consistent results among the mice that they tested. The higher Standard Deviations of the other regimens show a more sporadic result range amongst the mice in those groups.
 
 - As the weight of the mouse increases the tumor volume increases as well. This shows that there is a positive correlation between the weight and the tumor volume of the mice. The Pearson correlation coefficient of .84 shows that there is a high degree of correlation between these two varilables.
 
