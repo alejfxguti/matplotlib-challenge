@@ -8,19 +8,6 @@ As a senior data analyst at Pymaceuticals, you have been given access to the com
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
-## **Analysis**
-
-The analysis is broken down into the following tasks:
-
-- Prepare the data.
-- Generate summary statistics.
-- Create bar charts and pie charts.
-- Calculate quartiles, find outliers, and create a box plot.
-- Create a line plot and a scatter plot.
-- Calculate correlation and regression.
-
-For each task, we explain the purpose of the task and the steps involved. The analysis uses Matplotlib to create various visualizations of the data and pandas to manipulate the data.
-
 ## **Results**
 
 The results of the study are summarized in the **`pymaceuticals.ipynb`** notebook. They include:
